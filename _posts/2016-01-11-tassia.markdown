@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2016-01-11
+img: tassia.png
+alt: image-alt
+project-date: Setembro 2015
+client: Tassia Ely
+client-href: http://www.tassiaely.com/
+category: Backend Development
+description: Integração do site com a loja virtual OpenCart, desenvolvido em PHP.
+
+---
